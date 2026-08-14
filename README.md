@@ -1,6 +1,6 @@
 # Simple-Reconnaissance-Rover-SRR-01-(3D-Model)
 
-> **A project built for Hack Club**
+> **A project built for Hack Club.**
 > *A template for a small four-wheel vehicle for exploration or surveillance. This includes pre-sliced files for 3D-printing and files for modifications.*
 
 ## Project Deliverables
@@ -14,10 +14,10 @@
 | **Side View** | **Back View** |
 | <img width="1358" height="644" alt="SRR-01 Side View" src="https://github.com/user-attachments/assets/9b89ff31-3c02-4136-90bf-e7e95da391d2" /> | <img width="1358" height="644" alt="SRR-01 Back View" src="https://github.com/user-attachments/assets/41cd10e3-5420-482c-9e92-550e2e3a1086" /> |
 
-## Concept:
+## Concept
 This project is a flexible, modular base designed for building exploration and tracking rovers. Think of the chassis as an adaptable template, it’s built so you can easily mount whatever sensors your project requires, whether you're navigating open fields, detecting life forms, or tracking environmental stats like air quality and humidity. The interior layout is also completely open-ended, giving you plenty of room to set it up for either full autonomy or standard manual remote control.
 
-## Motivation:
+## Motivation
 Designing and building rovers is something I’ve done for a while now. After making several of them, I wanted to create a universal blueprint that saves time and is easy for anyone to build. The idea here is to give makers a reliable foundation that they can easily tweak, allowing them to specialize the rover for real-world applications like smart agriculture, environmental exploration, or recovery efforts.
 
 ## Tech Stack
@@ -37,3 +37,46 @@ Designing and building rovers is something I’ve done for a while now. After ma
    * The wheels are pushed far out to the corners of the frame to give the rover maximum stability on steep slopes. Each wheel includes an integrated fender to keep dirt and debris from kicking up into the moving joints during outdoor testing.
 5. **Enclosed Electronics:**
    * The main body features a spacious, multi-faceted top lid labeled SRR-01. This protective shell fully encloses the internal compartment, keeping sensitive microcontrollers, motor drivers, and battery packs safe from dust, debris, or moisture during field operations.
+  
+
+## Production Settings
+Since this project is designed as a template, the final slicing settings will ultimately depend on what material you choose and how tough you need your rover to be. That said, here are the recommended base settings I’ve used for printing a durable, field-ready build:
+
+| Slicing Parameter | Recommended Setting |
+| :--- | :--- |
+| Material | PETG |
+| Layer Height | 0.16 mm |
+| Infill density | 20% |
+| Infill Pattern | Gyroid |
+| Perimeters | 4 |
+| Top/Bottom Layers | 4 Top / 4 Bottom |
+| Supports | Tree |
+
+> **Tolerance Note:** The M3 screw holes and PVC pipe sockets in the CAD model are designed with standard clearance tolerances. If your printer tends to over-extrude slightly, set your slicer's **XY Size Compensation** to `-0.05 mm` or `-0.1 mm` so the PVC pipes slide snugly into the leg joints without needing forced reaming.
+
+## Bill of Materials (BOM)
+
+If you want to skip the CAD tweaking and jump straight into printing and assembling a fully functional rover, here is everything you need to build the base model (`SRR-01`):
+
+### Hardware & Fasteners
+* **3/4-inch PVC Pipe:** Cut to your desired leg length (used as the structural core for the 4 leg joints).
+* **M3 Screw Pack:** 
+  * M3 × 8mm, 12mm and 40mm Screws 
+  * M3 Hex Nuts 
+* **Wheels:** 4x 65mm Robot Smart Car Wheels (Hex hub compatible for couplers)
+* **Couplers:** 4x 18mm Hex couplings
+
+### Recommended Core Electronics
+* **Microcontroller** ESP32 or Arduino Uno
+* **Motors:** 4x JGA25-370
+* **Motor Drivers:** 2x L298N
+* **Power Source:** 2S/3S LiPo battery pack or a 6×AA battery holder
+* **GPS:** Ublox Neo GPS Module
+
+### Sensors
+* **Camera:** Logitech c270 web cam (or any other camera)
+* **2x HC-SR04 Ultrasonic Sensors** 
+* **DHT11 / DHT22 Temperature & Humidity sensor**
+* **MQ-135 Gas sensor**
+
+## Assembly Instructions
