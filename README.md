@@ -10,8 +10,8 @@
 ## Gallery
 | Front View | Top View |
 | :---: | :---: |
-| <img width="1358" height="644" alt="SRR-01 Front View" src="https://github.com/user-attachments/assets/e14ba830-b85d-4f2e-864f-49843768059c" /> | <img width="1358" height="644" alt="SRR-01 Top View" src="https://github.com/user-attachments/assets/58894879-52bf-40ec-9c2d-9907e07aa8a0" /> |
-| Side View | Back View |
+| <img width="1358" height="644" alt="SRR-01 Front View" src="https://github.com/user-attachments/assets/e14ba830-b85d-4f2e-864f-49843768059c" /> | <img width="1358" height="644" alt="SRR-01 Top View" src="https://github.com/user-attachments/assets/d172db4a-c65b-4154-b322-6cb03adde44f" /> |
+| **Side View** | **Back View** |
 | <img width="1358" height="644" alt="SRR-01 Side View" src="https://github.com/user-attachments/assets/9b89ff31-3c02-4136-90bf-e7e95da391d2" /> | <img width="1358" height="644" alt="SRR-01 Back View" src="https://github.com/user-attachments/assets/41cd10e3-5420-482c-9e92-550e2e3a1086" /> |
 
 ## Concept:
