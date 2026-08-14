@@ -21,4 +21,15 @@ Designing and building rovers is something I’ve done for a while now. After ma
 *  **Design Paradigm:** Parametric modeling
 *  **Target Manufacturing Process:** FDM 3D Printing
 
-## How It Works
+## Features
+* I designed this rover to be tough enough for the field but simple enough for anyone to actually build:
+1. **Articulated Suspension Legs:**
+   * To give the rover its wide stance and high ground clearance, the suspension arms utilize 3/4-inch PVC pipes as the structural bone template. The CAD-printed leg joints are designed to slide onto these pipes at a fixed angle, allowing the rover to climb over rocks, agricultural ridges, or debris without high-centering the main body.
+2. **M3 Screw Fastener:**
+   * Every single shell, joints, and mounting bracket is secured using standard M3 screws. By designing the entire chassis around a single fastener size, it simplifies assembly, keeps weight down, and ensures that anyone building this can easily source or swap out parts without needing a massive tool kit.
+3. **Modular Sensor Mounts:**
+   * The main body features built-in mounting points ready for hardware customizability. The top lid includes pre-modeled slots that can take various environmental sensors(like DHT22 or MQ135), while the angled front nose features a dedicated bracket for a camera and dual-port cutouts in-front and at the back for two ultrasonic sensors.
+4. **Rugged Outboard Wheels & Fenders:**
+   * The wheels are pushed far out to the corners of the frame to give the rover maximum stability on steep slopes. Each wheel includes an integrated fender to keep dirt and debris from kicking up into the moving joints during outdoor testing.
+5. **Enclosed Electronics:**
+   *The main body features a spacious, multi-faceted top lid labeled SRR-01. This protective shell fully encloses the internal compartment, keeping sensitive microcontrollers, motor drivers, and battery packs safe from dust, debris, or moisture during field operations.
