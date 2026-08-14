@@ -32,4 +32,4 @@ Designing and building rovers is something I’ve done for a while now. After ma
 4. **Rugged Outboard Wheels & Fenders:**
    * The wheels are pushed far out to the corners of the frame to give the rover maximum stability on steep slopes. Each wheel includes an integrated fender to keep dirt and debris from kicking up into the moving joints during outdoor testing.
 5. **Enclosed Electronics:**
-   *The main body features a spacious, multi-faceted top lid labeled SRR-01. This protective shell fully encloses the internal compartment, keeping sensitive microcontrollers, motor drivers, and battery packs safe from dust, debris, or moisture during field operations.
+   * The main body features a spacious, multi-faceted top lid labeled SRR-01. This protective shell fully encloses the internal compartment, keeping sensitive microcontrollers, motor drivers, and battery packs safe from dust, debris, or moisture during field operations.
