@@ -60,7 +60,7 @@ Since this project is designed as a template, the final slicing settings will ul
 If you want to skip the CAD tweaking and jump straight into printing and assembling a fully functional rover, here is everything you need to build the base model (`SRR-01`):
 
 ### Hardware & Fasteners
-* **3/4-inch PVC Pipe:** Cut to your desired leg length (used as the structural core for the 4 leg joints).
+* **3/4-inch PVC Pipe:** 2x 90mm and 6x 60mm (or cut to your desired length for the leg joints).
 * **M3 Screw Pack:** 
   * M3 × 8mm, 12mm and 40mm Screws 
   * M3 Hex Nuts 
