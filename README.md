@@ -2,6 +2,7 @@
 
 > **A project built for Hack Club.**
 > *A flexible 4-wheel rover template built for exploration, monitoring, and field testing. Includes ready-to-print 3D models and editable CAD files so you can easily customize it for your own build.*
+> **NOTE:** the only use of AI was for describing my project to create this README, about 25%
 
 ## Project Deliverables
 *  **Onshape Document Link:** https://cad.onshape.com/documents/328f3c9bf33f08104aae075f/w/b1dc5a9cc62e4fa71f2e4275/e/ef0978b53d92c064744758d2?renderMode=0&uiState=6a70f9a548c682f8d7dcd9b6
