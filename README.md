@@ -1,7 +1,7 @@
 # Simple-Reconnaissance-Rover-SRR-01-(3D-Model)
 
 > **A project built for Hack Club.**
-> *A template for a small four-wheel vehicle for exploration or surveillance. This includes pre-sliced files for 3D-printing and files for modifications.*
+> *A flexible 4-wheel rover template built for exploration, monitoring, and field testing. Includes ready-to-print 3D models and editable CAD files so you can easily customize it for your own build.*
 
 ## Project Deliverables
 *  **Onshape Document Link:** https://cad.onshape.com/documents/328f3c9bf33f08104aae075f/w/b1dc5a9cc62e4fa71f2e4275/e/ef0978b53d92c064744758d2?renderMode=0&uiState=6a70f9a548c682f8d7dcd9b6
@@ -80,3 +80,4 @@ If you want to skip the CAD tweaking and jump straight into printing and assembl
 * **MQ-135 Gas sensor**
 
 ## Assembly Instructions
+>  Working on it...
