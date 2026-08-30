@@ -1,4 +1,4 @@
-<img width="1910" height="915" alt="STEP 2" src="https://github.com/user-attachments/assets/f2f05996-59a3-40a4-9b58-d09f0fb4a9ee" /># Simple-Reconnaissance-Rover-SRR-01-(3D-Model)
+# Simple-Reconnaissance-Rover-SRR-01-(3D-Model)
 
 > **A project built for Hack Club.**
 > *A flexible 4-wheel rover template built for exploration, monitoring, and field testing. Includes ready-to-print 3D models and editable CAD files so you can easily customize it for your own build.*
@@ -105,7 +105,7 @@ Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are
   </tr>
 </table>
 
-* **Join the two bases together then fasten them with three m3*8mm Screws and nuts**
+* **Join the two bases together then fasten them with 3 m3*8mm Screws and nuts**
 <table>
   <tr>
     <td align="center">
@@ -113,6 +113,18 @@ Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are
     </td>
     <td align="center">
       <img width="1910" height="915" alt="STEP 7" src="https://github.com/user-attachments/assets/0d5078c5-c832-44ae-b42b-e6eb7b878fd1" />
+    </td>
+  </tr>
+</table>
+
+* **Add the Left Hand and Right Hand to the base respectively. After that fasten them with 8 m3*8mm Screws and nuts**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1669" height="945" alt="STEP 9" src="https://github.com/user-attachments/assets/f7e5813f-b2e2-4350-9407-97f85012aeb7" />
+    </td>
+    <td align="center">
+      <img width="1669" height="945" alt="STEP 10" src="https://github.com/user-attachments/assets/458af059-8f7c-416d-be9c-f5c2a251a6f7" />
     </td>
   </tr>
 </table>
