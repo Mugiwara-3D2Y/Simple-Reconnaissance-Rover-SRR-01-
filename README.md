@@ -1,4 +1,4 @@
-# Simple-Reconnaissance-Rover-SRR-01-(3D-Model)
+<img width="1910" height="915" alt="STEP 2" src="https://github.com/user-attachments/assets/f2f05996-59a3-40a4-9b58-d09f0fb4a9ee" /># Simple-Reconnaissance-Rover-SRR-01-(3D-Model)
 
 > **A project built for Hack Club.**
 > *A flexible 4-wheel rover template built for exploration, monitoring, and field testing. Includes ready-to-print 3D models and editable CAD files so you can easily customize it for your own build.*
@@ -81,4 +81,41 @@ If you want to skip the CAD tweaking and jump straight into printing and assembl
 * **MQ-135 Gas sensor**
 
 ## Assembly Instructions
+
+Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are printed. Here is how it goes together:
+
+### Step 1: Chasis
+* **Get the Front Base and Back Base of the chasis and insert an ultrasonic sensors in each part.**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 1" src="https://github.com/user-attachments/assets/aeca6c52-1c82-4fc7-bd4f-fb9021d0d161" />
+    </td>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 3" src="https://github.com/user-attachments/assets/80d4b5d3-2c30-4799-a861-3182dcd49ee6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 2" src="https://github.com/user-attachments/assets/c354ae0d-8f27-4e94-8c80-3e48cb272127" />
+    </td>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 4" src="https://github.com/user-attachments/assets/e9ad39c5-b7b2-4834-9362-67fee4f5eac1" />
+    </td>
+  </tr>
+</table>
+
+* **Join the two bases together then fasten them with three m3*8mm Screws and nuts**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 6" src="https://github.com/user-attachments/assets/7cf2b877-2d5a-4a28-a88d-f75fb0a0ceda" />
+    </td>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 7" src="https://github.com/user-attachments/assets/0d5078c5-c832-44ae-b42b-e6eb7b878fd1" />
+    </td>
+  </tr>
+</table>
+
+  
 >  Working on it...
