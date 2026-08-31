@@ -92,7 +92,7 @@ Below outlines the time it takes to print each part based on the Production Sett
 | [Back Cover](./.stl%20files/Chasis/Chasis%20-%20Back%20Cover.stl) | **11 hours 30 minutes** |
 | [Left Hand](./.stl%20files/Chasis/Chasis%20-%20Left%20Hand.stl) | **2 hours 20 minutes** |
 | [Right Hand](./.stl%20files/Chasis/Chasis%20-%20Right%20Hand.stl) | **2 hours 20 minutes** |
-| [Back Base](./.stl%20files/Chasis/Chasis%20-%20Back%20Base.stl) | **1 hours 40 minutes** |
+| [PVC Pipe Joint - (Right Front or Left Rear)](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Front%20or%20Left%20Rear).stl) | **1 hours 40 minutes** |
 
 ## Assembly Guide
 
