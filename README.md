@@ -80,7 +80,21 @@ If you want to skip the CAD tweaking and jump straight into printing and assembl
 * **DHT11 / DHT22 Temperature & Humidity sensor**
 * **MQ-135 Gas sensor**
 
-## Assembly Instructions
+## Printing Process
+
+Below outlines the time it takes to print each part based on the Production Settings.
+
+| Part | Time |
+| :--- | :--- |
+| [Front Base](./.stl%20files/Chasis/Chasis%20-%20Front%20Base.stl) and [Back Base](./.stl%20files/Chasis/Chasis%20-%20Back%20Base.stl) | **6 hours** |
+| [Back Base](./.stl%20files/Chasis/Chasis%20-%20Back%20Base.stl) | **7 hours** |
+| [Front Cover](./.stl%20files/Chasis/Chasis%20-%20Front%20Cover.stl) | **9 hours 30 minutes** |
+| [Back Cover](./.stl%20files/Chasis/Chasis%20-%20Back%20Cover.stl) | **11 hours 30 minutes** |
+| [Left Hand](./.stl%20files/Chasis/Chasis%20-%20Left%20Hand.stl) | **2 hours 20 minutes** |
+| [Right Hand](./.stl%20files/Chasis/Chasis%20-%20Right%20Hand.stl) | **2 hours 20 minutes** |
+| [Back Base](./.stl%20files/Chasis/Chasis%20-%20Back%20Base.stl) | **1 hours 40 minutes** |
+
+## Assembly Guide
 
 Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are printed. Here is how it goes together:
 
