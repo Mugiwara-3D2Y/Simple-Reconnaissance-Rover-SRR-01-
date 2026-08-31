@@ -6,7 +6,7 @@
 
 ## Project Deliverables
 *  **Onshape Document Link:** https://cad.onshape.com/documents/328f3c9bf33f08104aae075f/w/b1dc5a9cc62e4fa71f2e4275/e/ef0978b53d92c064744758d2?renderMode=0&uiState=6a70f9a548c682f8d7dcd9b6
-*  **Print Ready Files:** '.step' and '.stl' formats are available in the '/.step files' and '/.stl files' folders respectively.
+*  **Print Ready Files:** Located at [/.stl files](./.stl%20files) and [/.step files](./.step%20files).
 
 ## Gallery
 | Front View | Top View |
