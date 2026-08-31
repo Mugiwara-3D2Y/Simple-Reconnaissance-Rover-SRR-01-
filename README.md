@@ -55,6 +55,8 @@ Since this project is designed as a template, the final slicing settings will ul
 
 > **Tolerance Note:** The M3 screw holes and PVC pipe sockets in the CAD model are designed with standard clearance tolerances. If your printer tends to over-extrude slightly, set your slicer's **XY Size Compensation** to `-0.05 mm` or `-0.1 mm` so the PVC pipes slide snugly into the leg joints without needing forced reaming.
 
+> Turn off "Don't create support under brigdes" for [Front Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Front%20Cover.stl) and [Back Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Back%20Cover.stl).
+
 ## Bill of Materials (BOM)
 
 If you want to skip the CAD tweaking and jump straight into printing and assembling a fully functional rover, here is everything you need to build the base model (`SRR-01`):
@@ -86,13 +88,18 @@ Below outlines the time it takes to print each part based on the Production Sett
 
 | Part | Time |
 | :--- | :--- |
-| [Front Base](./.stl%20files/Chasis/Chasis%20-%20Front%20Base.stl) and [Back Base](./.stl%20files/Chasis/Chasis%20-%20Back%20Base.stl) | **6 hours** |
-| [Back Base](./.stl%20files/Chasis/Chasis%20-%20Back%20Base.stl) | **7 hours** |
-| [Front Cover](./.stl%20files/Chasis/Chasis%20-%20Front%20Cover.stl) | **9 hours 30 minutes** |
-| [Back Cover](./.stl%20files/Chasis/Chasis%20-%20Back%20Cover.stl) | **11 hours 30 minutes** |
-| [Left Hand](./.stl%20files/Chasis/Chasis%20-%20Left%20Hand.stl) | **2 hours 20 minutes** |
-| [Right Hand](./.stl%20files/Chasis/Chasis%20-%20Right%20Hand.stl) | **2 hours 20 minutes** |
-| [PVC Pipe Joint - (Right Front or Left Rear)](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Front%20or%20Left%20Rear).stl) | **1 hours 40 minutes** |
+| [Front Base Chasis](./.stl%20files/Chasis/Chasis%20-%20Front%20Base.stl) | **6 hours** |
+| [Back Base Chasis](./.stl%20files/Chasis/Chasis%20-%20Back%20Base.stl) | **7 hours** |
+| [Front Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Front%20Cover.stl) | **9 hours 30 minutes** |
+| [Back Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Back%20Cover.stl) | **11 hours 30 minutes** |
+| [Left Hand Chasis](./.stl%20files/Chasis/Chasis%20-%20Left%20Hand.stl) | **2 hours 20 minutes** |
+| [Right Hand Chasis](./.stl%20files/Chasis/Chasis%20-%20Right%20Hand.stl) | **2 hours 20 minutes** |
+| [Right Front/Left Rear PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Front%20or%20Left%20Rear).stl) | **1 hours 40 minutes** |
+| [Right Rear/Left Front PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Rear%20or%20Left%20Front).stl) | **1 hours 40 minutes** |
+| [Left Front Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Left%20Front.stl) | **3 hours 30 minutes** |
+| [Left Rear Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Left%20Rear.stl) | **3 hours 20 minutes** |
+| [Right Front Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Right%20Front.stl) | **3 hours 30 minutes** |
+| [Right Rear Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Rigth%20Rear.stl) | **3 hours 20 minutes** |
 
 ## Assembly Guide
 
