@@ -85,7 +85,7 @@ If you want to skip the CAD tweaking and jump straight into printing and assembl
 Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are printed. Here is how it goes together:
 
 ### Step 1: Chasis
-* **Get the Front Base and Back Base of the chasis and insert an ultrasonic sensors in each part.**
+* **Get the [Front Base](./.stl%20files/Chasis/Chasis%20-%20Front%20Base.stl) and [Back Base](./.stl%20files/Chasis/Chasis%20-%20Back%20Base.stl) of the chasis and insert an HC-SR04 ultrasonic sensor in each part.**
 <table>
   <tr>
     <td align="center">
@@ -117,7 +117,7 @@ Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are
   </tr>
 </table>
 
-* **Add the Left Hand and Right Hand to the base respectively. After that fasten them with 8 m3*8mm Screws and nuts**
+* **Add the [Left Hand](./.stl%20files/Chasis/Chasis%20-%20Left%20hand.stl) and [Right Hand](./.stl%20files/Chasis/Chasis%20-%20Right%20hand.stl) to the base respectively. After that fasten them with 8 m3*8mm Screws and nuts**
 <table>
   <tr>
     <td align="center">
