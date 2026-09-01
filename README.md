@@ -285,6 +285,16 @@ Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are
   </tr>
 </table>
 
-* **Fix the [Front Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Front%20Cover.stl) to the Bottom Chasis with 2 m3*40mm and 2 m3*
+* **Fix the [Front Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Front%20Cover.stl) to the Bottom Chasis with 2 m3*40mm and 2 m3*8mm**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1912" height="948" alt="STEP 36" src="https://github.com/user-attachments/assets/9eb43bfe-e109-422d-8b86-fb35d37c294f" />
+    </td>
+    <td align="center">
+      <img width="1912" height="948" alt="STEP 37" src="https://github.com/user-attachments/assets/44582bad-cd75-45eb-93e7-dd7a3459cae7" />
+    </td>
+  </tr>
+</table>
 
 >  Working on it...
