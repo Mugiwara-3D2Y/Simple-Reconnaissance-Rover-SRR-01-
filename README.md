@@ -245,4 +245,46 @@ Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are
   </tr>
 </table>
 
+### Step 3: Upper Chasis
+* **Attach a DHT22 Temperature & Humidity sensor, an Ublox Neo GPS and a MQ-135 Gas sensor to the [Back Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Back%20Cover.stl). Use 4 m3*5mm Screws to fasten the Gas sensor.
+<table>
+  <tr>
+    <td align="center">
+      <img width="1912" height="948" alt="STEP 29" src="https://github.com/user-attachments/assets/5cde2310-76ae-4d40-ac2f-0bbc4c535cfe" />
+    </td>
+    <td align="center">
+      <img width="1912" height="948" alt="STEP 30" src="https://github.com/user-attachments/assets/507234b0-ad74-4184-a7c4-c48e99b89882" />
+    </td>
+    <td align="center">
+      <img width="1912" height="948" alt="STEP 31" src="https://github.com/user-attachments/assets/870e122c-a6b5-4896-9c4e-10bc2f33b3c8" />
+    </td>
+  </tr>
+</table>
+
+* **Now fasten the [Back Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Back%20Cover.stl) to the Bottom Chasis with 2 m3*40mm**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1912" height="948" alt="STEP 32" src="https://github.com/user-attachments/assets/fd5f0761-7404-41b6-a94a-07696fc7a39b" />
+    </td>
+    <td align="center">
+      <img width="1912" height="948" alt="STEP 33" src="https://github.com/user-attachments/assets/360e5ae7-a294-4e91-9080-71d21e7c6999" />
+    </td>
+  </tr>
+</table>
+
+* **Take the [Front Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Front%20Cover.stl) and attach a camera to the space infront.**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1912" height="948" alt="STEP 34" src="https://github.com/user-attachments/assets/671c59c1-2001-433b-ad7f-f5786c5387ad" />
+    </td>
+    <td align="center">
+      <img width="1912" height="948" alt="STEP 35" src="https://github.com/user-attachments/assets/6ec5ad61-e128-4c72-9d42-b6b3762d030d" />
+    </td>
+  </tr>
+</table>
+
+* **Fix the [Front Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Front%20Cover.stl) to the Bottom Chasis with 2 m3*40mm and 2 m3*
+
 >  Working on it...
