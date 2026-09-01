@@ -94,18 +94,21 @@ Below outlines the time it takes to print each part based on the Production Sett
 | [Back Cover Chasis](./.stl%20files/Chasis/Chasis%20-%20Back%20Cover.stl) | **11 hours 30 minutes** |
 | [Left Hand Chasis](./.stl%20files/Chasis/Chasis%20-%20Left%20Hand.stl) | **2 hours 20 minutes** |
 | [Right Hand Chasis](./.stl%20files/Chasis/Chasis%20-%20Right%20Hand.stl) | **2 hours 20 minutes** |
-| [Right Front/Left Rear PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Front%20or%20Left%20Rear).stl) | **1 hours 40 minutes** |
-| [Right Rear/Left Front PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Rear%20or%20Left%20Front).stl) | **1 hours 40 minutes** |
+| [Right Front PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Front%20or%20Left%20Rear).stl) | **1 hours 40 minutes** |
+| [Right Rear PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Rear%20or%20Left%20Front).stl) | **1 hours 40 minutes** |
+| [Left Rear PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Front%20or%20Left%20Rear).stl) | **1 hours 40 minutes** |
+| [Left Front PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Rear%20or%20Left%20Front).stl) | **1 hours 40 minutes** |
 | [Left Front Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Left%20Front.stl) | **3 hours 30 minutes** |
 | [Left Rear Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Left%20Rear.stl) | **3 hours 20 minutes** |
 | [Right Front Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Right%20Front.stl) | **3 hours 30 minutes** |
 | [Right Rear Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Rigth%20Rear.stl) | **3 hours 20 minutes** |
+| **Total** | **59 hours** |
 
 ## Assembly Guide
 
 Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are printed. Here is how it goes together:
 
-### Step 1: Chasis
+### Step 1: eLower Chasis
 * **Get the [Front Base](./.stl%20files/Chasis/Chasis%20-%20Front%20Base.stl) and [Back Base](./.stl%20files/Chasis/Chasis%20-%20Back%20Base.stl) of the chasis and insert an HC-SR04 ultrasonic sensor in each part.**
 <table>
   <tr>
@@ -150,5 +153,96 @@ Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are
   </tr>
 </table>
 
-  
+### Step 2: Rover Legs
+* **Slide a JGA25-370 motor into the [Left Front Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Left%20Front.stl) with two m3*12mm Screws.**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 11" src="https://github.com/user-attachments/assets/5d9940b2-1f24-4d63-b80c-6b346dd6fbef" />
+    </td>
+    <td>
+      <img width="1910" height="915" alt="STEP 12" src="https://github.com/user-attachments/assets/c1fcccf9-a79b-434e-9c7b-5c27ec018af1" />
+    </td>
+    <td>
+      <img width="1910" height="915" alt="STEP 13" src="https://github.com/user-attachments/assets/582c7a1b-a54d-4ec8-b533-1cd7bb92f02f" />
+    </td>
+  </tr>
+</table>
+
+* **Next fix one 30mm PVC Pipe in the [Left Front Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Left%20Front.stl) followed by the [Left Front PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Rear%20or%20Left%20Front).stl) aligned correspondingly.**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 14" src="https://github.com/user-attachments/assets/2ada1372-04d7-4e9c-bdd1-825ff98327e2" />
+    </td>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 15" src="https://github.com/user-attachments/assets/15d1e8d7-7ca9-4cb0-a347-047993ed475f" />
+    </td>
+  </tr>
+</table>
+
+* **After that, fit a 60mm Pipe into the [Left Front PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Rear%20or%20Left%20Front).stl)**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 16" src="https://github.com/user-attachments/assets/17505e66-51fd-4728-a890-027976c504b8" />
+    </td>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 17" src="https://github.com/user-attachments/assets/1e7c626b-ce1a-4ccc-823e-7a9f058df286" />
+    </td>
+  </tr>
+</table>
+
+* **Repeat Steps 2.1, 2.2 and 2.33 with the [Left Rear Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Left%20Rear.stl), [Left Rear PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Front%20or%20Left%20Rear).stl) and a 30mm PVC Pipe**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 18" src="https://github.com/user-attachments/assets/e5b4afb6-ae11-4ac6-8d66-9c49124b036f" />
+    </td>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 19" src="https://github.com/user-attachments/assets/e535af46-8abb-458e-9d2c-0af247153833" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center'>
+      <img width="1910" height="915" alt="STEP 20" src="https://github.com/user-attachments/assets/ab3b5655-7d14-4e17-8904-0946664b2134" />
+    </td>
+    <td align="center">
+     <img width="1910" height="915" alt="STEP 21" src="https://github.com/user-attachments/assets/e4b88bf9-f010-4eb8-ac80-c9720bcdaee3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 22" src="https://github.com/user-attachments/assets/344667ec-8f06-45a4-9693-b26749a6a265" />
+    </td>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 23" src="https://github.com/user-attachments/assets/35845add-6232-47c1-bb4b-296ef82b84d3" />
+    </td>
+  </tr>
+</table>
+
+* **Gather the two separate assemblies and add them to the Bottom Chasis from Step 1.**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 24" src="https://github.com/user-attachments/assets/c9fd454d-b7a9-4ec3-ae01-9c06fc491f42" />
+    </td>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 25" src="https://github.com/user-attachments/assets/0afbf175-4d93-4105-8e11-498ada35ea82" />
+    </td>
+  </tr>
+</table>
+
+* **Repeat the whole of Step 2 so far with [Right Front Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Right%20Front.stl), [Right Rear Wheel Mount](./.stl%20files/Wheel%20Mount/Wheel%20Mount%20-%20Rigth%20Rear.stl), [Right Front PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Front%20or%20Left%20Rear).stl) and [Right Rear PVC Pipe Joint](./.stl%20files/PVC%20Pipe%20Joint/PVC%20Pipe%20Joint%20-%20(Right%20Rear%20or%20Left%20Front).stl).**
+<table>
+  <tr>
+    <td align="center">
+      <img width="1910" height="915" alt="STEP 26" src="https://github.com/user-attachments/assets/818b0f86-668f-4b6a-a1ec-5d7ca9fe3ad3" />
+    </td>
+    <td align="center">
+      <img width="1912" height="948" alt="STEP 27" src="https://github.com/user-attachments/assets/577b2ac3-e48c-4a02-811b-a3fb1e35c04b" />
+    </td>
+  </tr>
+</table>
+
 >  Working on it...
