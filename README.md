@@ -280,7 +280,7 @@ Assembling the base `SRR-01` takes about 30–45 minutes once all your parts are
       <img width="1912" height="948" alt="STEP 34" src="https://github.com/user-attachments/assets/671c59c1-2001-433b-ad7f-f5786c5387ad" />
     </td>
     <td align="center">
-      <img width="1912" height="948" alt="STEP 35" src="https://github.com/user-attachments/assets/6ec5ad61-e128-4c72-9d42-b6b3762d030d" />
+      <img width="1912" height="948" alt="STEP 35" src="https://github.com/user-attachments/assets/b601fb88-ed58-4c77-85e0-cd0180474ef5" />
     </td>
   </tr>
 </table>
